@@ -1,4 +1,4 @@
-# Crashing-Balls
+# Crashing-Balls P5.js
 
 This is a mini program written in Javascript and especially with p5.js.
 It creates some ball objects that move around randomly and crash with 
